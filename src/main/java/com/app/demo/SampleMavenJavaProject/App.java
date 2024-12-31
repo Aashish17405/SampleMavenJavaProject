@@ -10,7 +10,7 @@ public class App {
         System.out.println("Enter 1st number: ");
         double num1 = scanner.nextDouble();
 
-        System.out.println("Enter second number: ");
+        System.out.println("Enter 2nd number: ");
         double num2 = scanner.nextDouble();
 
         System.out.println("Enter an operator (+, -, *, /): ");
